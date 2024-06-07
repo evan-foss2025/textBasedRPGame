@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=CommandParser
+comment1.params=command
+comment1.target=java.lang.String\ normalizeCommand(java.lang.String)
+numComments=2

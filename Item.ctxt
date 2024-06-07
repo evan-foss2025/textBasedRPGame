@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Item
+comment1.params=name\ description\ weight\ uses\ damage\ healingAmount
+comment1.target=Item(java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int)
+comment10.params=healingAmount
+comment10.target=void\ setHealingAmount(int)
+comment11.params=
+comment11.target=void\ useItem()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment4.params=
+comment4.target=int\ getWeight()
+comment5.params=
+comment5.target=int\ getUses()
+comment6.params=uses
+comment6.target=void\ setUses(int)
+comment7.params=
+comment7.target=int\ getDamage()
+comment8.params=damage
+comment8.target=void\ setDamage(int)
+comment9.params=
+comment9.target=int\ getHealingAmount()
+numComments=12

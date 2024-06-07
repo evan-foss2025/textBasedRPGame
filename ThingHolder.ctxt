@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ThingHolder
+comment1.params=name\ description\ capacity
+comment1.target=ThingHolder(java.lang.String,\ java.lang.String,\ int)
+comment10.params=item
+comment10.target=boolean\ checkCapacity(Item)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment4.params=
+comment4.target=int\ getCapacity()
+comment5.params=
+comment5.target=int\ getCurrentLoad()
+comment6.params=
+comment6.target=java.util.ArrayList\ getInventory()
+comment7.params=item
+comment7.target=void\ addToInventory(Item)
+comment8.params=
+comment8.target=void\ displayInventory()
+comment9.params=item
+comment9.target=void\ removeFromInventory(Item)
+numComments=11
